@@ -1,80 +1,57 @@
-Hi there, I'm  Vishnu 👋
+<br clear="both">
 
-🚀 Full-Stack Web Developer | Passionate Problem Solver | Lifelong Learner
+<h2 align="left">Hi, I'm Vishnu</h2>
 
-🌟 **About Me**
+###
 
-I'm a Full-Stack Web Developer with 2+ years of professional experience designing and developing scalable web applications. 
-At work, I’ve contributed to multiple projects, gaining expertise in React.js, Node.js, and PostgreSQL, while also exploring modern tools like Docker.
+<p align="left">I'm a Full-Stack Web Developer with 2+ years of professional experience designing and developing scalable web applications.</p>
 
-Currently, I’m working on personal projects to strengthen my portfolio and expand my technical skills beyond tutorials. 
-I believe in learning by building and am excited to bring creative solutions to life.
+###
 
-Location: Hyderabad, India.
+<h2 align="left">About me</h2>
 
+###
 
-Email: venkateshvishnuperumal@gmail.com.
+<h6 align="left">Location: Hyderabad, India<br><br>Email: venkateshvishnuperumal@gmail.com<br><br>Phone : +91 9347815817<br><br>LinkedIn: https://www.linkedin.com/in/vishnuperumal-0568807v/</h6>
 
+###
 
-Phone : +91 9347815817
+<h2 align="left">Skills</h2>
 
+###
 
-LinkedIn: https://www.linkedin.com/in/vishnuperumal-0568807v/
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+</div>
 
-
-GitHub: github.com/venkateshvishnuperumal
-
-
-🛠️ **Skills**
-
-Frontend: React.js, JavaScript, HTML, CSS, Material UI
-
-Backend: Node.js, Express.js, REST APIs
-
-Database: PostgreSQL,SQL
-
-DevOps: Docker, Git
-
-Tools: VS Code, Postman, GitHub
-
-
-💻 **Projects at Work**
-
-**Integrated Traffic Management**
-Designed RESTful APIs to integrate multiple components in a scalable traffic management system.
-Optimized backend services for performance and reliability.
-
-
-**Live Traffic Dashboards**
-
-Developed real-time data visualizations using React.js and Highcharts.
-Built backend services to process and deliver data efficiently.
-
-
-**User Management System**
-
-Implemented role-based access control (RBAC) to secure user data.
-Built and optimized database schemas for better performance.
-
-
-
-🎓 **Education**
-
-B.Tech in Computer Science & Engineering,
-Rajiv Gandhi University of Knowledge Technologies (RGUKT), Ongole,
-📅 Graduated: 2022 | CGPA: 8.4/10.
-
-
-
-🌱 **Currently Exploring**
-
-Building personal projects to showcase on my GitHub.
-
-Learning advanced React, TypeScript, and testing tools like Jest.
-
-Improving backend architecture design and containerization techniques.
-
-
-🚀 **Let's Build Together!**
-
-I’m eager to collaborate on exciting projects and explore open-source contributions. Feel free to reach out or connect with me for collaboration opportunities!
+###
