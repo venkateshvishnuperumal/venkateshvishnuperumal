@@ -11,9 +11,17 @@ Currently, I’m working on personal projects to strengthen my portfolio and exp
 I believe in learning by building and am excited to bring creative solutions to life.
 
 Location: Hyderabad, India.
+
+
 Email: venkateshvishnuperumal@gmail.com.
+
+
 Phone : +91 9347815817
+
+
 LinkedIn: https://www.linkedin.com/in/vishnuperumal-0568807v/
+
+
 GitHub: github.com/venkateshvishnuperumal
 
 
