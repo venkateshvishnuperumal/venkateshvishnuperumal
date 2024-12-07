@@ -89,15 +89,11 @@ complex technical challenges to deliver quality solutions</p>
 
 <h4 align="left">B.Tech in Computer Science & Engineering</h4>
 <p align="left">Rajiv Gandhi University of Knowledge Technologies (RGUKT), Ongole</p>
-<p align="left">📅 Graduated: 2022 | CGPA: 8.4/10</p>
+<p align="left">Graduated: 2022 | CGPA: 8.4/10</p>
 
-<h2 align="left">Coursework</h2>
+<h2 align="left">Let's Build Together!</h2>
 
-<ul align="left">
-  <li>React Course - React JavaScript Library, FreeCodeCamp, YouTube • 2023 • React.js</li>
-  <li>Node and Express Tutorial, Coding Addict, YouTube • 2022 • Node.js, Express.js</li>
-</ul>
+<p align="left">I’m eager to collaborate on exciting projects and explore open-source contributions. Feel free to reach out or connect with me for collaboration opportunities!</p>
 
 ---
 
-Feel free to review and let me know if there's anything else you'd like to add or modify!
